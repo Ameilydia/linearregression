@@ -7,4 +7,9 @@ I want to record my learning and become a memory.
   2.git add <file>
   3.git commit -m <message>
   4.git config --global user.name "example@mails.com"
-  
+  5.git status
+  6.git diff
+over! 
+  7.git log(submission of history)
+  8.git relog(view history)
+

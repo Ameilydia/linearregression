@@ -10,6 +10,8 @@ I want to record my learning and become a memory.
   5.git status
   6.git diff
 over! 
-  7.git log(submission of history)
+  7.git log(submission of history)(I do not understand)
   8.git relog(view history)
+  9.git reset --hard HEAD^(retreat version)
+  add LICENSE
 

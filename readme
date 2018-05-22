@@ -1,0 +1,10 @@
+Hello,everyone!
+My name is xiaoyu.
+I am a new learner.
+Today I want to create my first repository.
+I want to record my learning and become a memory.
+  1.git init
+  2.git add <file>
+  3.git commit -m <message>
+  4.git config --global user.name "example@mails.com"
+  
